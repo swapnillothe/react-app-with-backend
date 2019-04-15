@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/swapnillothe/react-app-with-backend#readme",
   "dependencies": {
+    "react": "^16.8.6",
     "react-scripts": "^2.1.8"
   }
 }
