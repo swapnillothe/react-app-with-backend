@@ -1,0 +1,3 @@
+[submodule "react-app-front-end"]
+	path = react-app-front-end
+	url = https://github.com/swapnillothe/react-app-front-end

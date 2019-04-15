@@ -1,6 +1,8 @@
 const Express = require('express');
 const app = new Express();
 
+app.use(Express.static('react-app-front-end/build'));
+
 app.get('/getNumber', (req, res) => {
     res.send(JSON.stringify({ a: 2 }));
 });
